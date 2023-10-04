@@ -87,7 +87,7 @@ $(document).ready(function() {
 			<input readonly class="product0"></input>
 			<input readonly class="amount0"></input>
 			</div>`)
-			$('.product0').val("Product1");
+			$('.product0').val("iPhone 15 Pro Max");
 			$('.amount0').val(cart[i]);
 					break;
 
@@ -99,7 +99,7 @@ $(document).ready(function() {
 			<input readonly class="product1"></input>
 			<input readonly class="amount1"></input>
 			</div>`)
-			$('.product1').val("Product2");
+			$('.product1').val("iPhone 15 Pro");
 			$('.amount1').val(cart[i]);
 					break;
 		
@@ -111,7 +111,7 @@ $(document).ready(function() {
 			<input readonly class="product2"></input>
 			<input readonly class="amount2"></input>
 			</div>`)
-			$('.product2').val("Product3");
+			$('.product2').val("Apple Watch Series 9");
 			$('.amount2').val(cart[i]);
 					break;
 			
@@ -123,7 +123,7 @@ $(document).ready(function() {
 			<input readonly class="product3"></input>
 			<input readonly class="amount3"></input>
 			</div>`)
-			$('.product3').val("Product4");
+			$('.product3').val("MacBook Pro 16");
 			$('.amount3').val(cart[i]);
 					break;
 			
@@ -135,7 +135,7 @@ $(document).ready(function() {
 			<input readonly class="product4"></input>
 			<input readonly class="amount4"></input>
 			</div>`)
-			$('.product4').val("Product5");
+			$('.product4').val("Наушники AirPods");
 			$('.amount4').val(cart[i]);
 					break;
 
